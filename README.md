@@ -6,17 +6,10 @@ this repo aimed at enhancing skills in software engineering and backend developm
 The purpose of this project is to improve problem-solving abilities, algorithmic thinking, and understanding of backend development concepts through regular practice.
 
 ### Features
-- **Daily Challenges**: Solve one challenging problem every day to sharpen skills and stay consistent in learning.
-- **Variety of Topics**: Explore a wide range of topics related to software engineering, algorithms, data structures, and backend development.
-- **Tips and Solutions**: Share insights, tips, and solutions for each problem tackled to deepen understanding and facilitate learning for others.
-
-### How to Use
-1. **Select a Problem**: Choose a problem from a platform to solve each day.
-2. **Solve the Problem**: Implement a solution for the selected problem, considering efficiency, correctness, and best practices.
-3. **Document the Solution**: Document the solution in the code and provide explanations, insights, and any relevant tips.
-4. **Test Your Solution**: Test the solution with various test cases to ensure its correctness and efficiency.
-5. **Share Your Experience**: Optionally, share your experience, challenges faced, and lessons learned while solving the problem.
-
-### License
-This project is licensed under the [MIT License](LICENSE).
+- **Daily Challenges**: 
+Solve one challenging problem every day to sharpen skills and stay consistent in learning.
+- **Variety of Topics**: 
+Explore a wide range of topics related to software engineering, algorithms, data structures, and backend development.
+- **Tips and Solutions**: 
+Share insights, tips, and solutions for each problem tackled to deepen understanding and facilitate learning for others.
 
